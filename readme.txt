@@ -3,7 +3,7 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of file.
 Git has remote repository.
-create branch dev.
+create a branch dev.
 Creating a new branch is quick and simple.
 add merge again.
 test bug branch.
