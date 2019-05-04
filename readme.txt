@@ -6,3 +6,4 @@ Git has remote repository.
 create branch dev.
 Creating a new branch is quick and simple.
 add merge again.
+test bug branch.
